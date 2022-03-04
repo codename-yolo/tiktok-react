@@ -1,0 +1,8 @@
+.disable{
+    background-color: darkgray;
+    &:hover{
+        cursor: pointer;
+        background-color: azure;
+        color: #000;
+    }
+}

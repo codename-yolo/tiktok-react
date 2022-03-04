@@ -1,0 +1,19 @@
+.btn{
+    background-color: orange;
+    color: red;
+    border:  none;
+    border-radius: 50px;
+}
+.btnFont {
+    font-size: 10px;
+}
+
+.primary{
+    background-color: aqua;
+    color: white;
+}
+
+.xam{
+    background-color: azure;
+    color: aqua;
+}
